@@ -30,7 +30,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
+      "textAlignment": "LEFT",
       "blockClass": "vintage"
     }
   },
@@ -44,7 +44,7 @@
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
+      "textAlignment": "LEFT",
       "blockClass": "metal"
     }
   },
@@ -54,7 +54,7 @@
       "isFullModeStyle": true,
       "headline": "Time to rethink your kitchen",
       "callToActionText": "Discover",
-      "textPosition": "center"
+      "textPosition": "LEFT"
     }
   },
   "flex-layout.col": {
@@ -83,16 +83,16 @@
   "rich-text#desktop": {
     "props": {
       "text": "# Your Coffee, Your Way \n #### *New Coffee Makers Collection*",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
+      "textPosition": "LEFT",
+      "textAlignment": "LEFT"
     }
   },
 
   "rich-text#mobile": {
     "props": {
       "text": "# Your Coffee, Your Way \n #### *New Coffee Makers Collection*",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
+      "textPosition": "LEFT",
+      "textAlignment": "LEFT"
     }
   },
   "image#desktop": {
