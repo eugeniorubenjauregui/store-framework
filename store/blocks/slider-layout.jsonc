@@ -9,7 +9,7 @@
       "image#brand6"
     ],
     "props": {
-      "autoPlay": {
+      "autoplay": {
         "timeut": 7000,
         "stopOnHover": true
       }
