@@ -1,6 +1,6 @@
 {
   "store.product": {
-    "blocks": ["flex-layout.row#main"]
+    "children": ["flex-layout.row#main"]
   },
   "flex-layout.row#main": {
     "props": {
