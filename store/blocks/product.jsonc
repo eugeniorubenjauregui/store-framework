@@ -44,7 +44,7 @@
   },
   "sku-selector": {
     "props": {
-      "visibility": "always",
+      "initialSelection": "empty",
       "showValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
