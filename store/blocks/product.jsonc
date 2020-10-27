@@ -44,7 +44,7 @@
   },
   "sku-selector": {
     "props": {
-      "visibleVariations": "undefined",
+      "visibility": "always",
       "showValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
