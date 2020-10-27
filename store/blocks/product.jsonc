@@ -17,10 +17,7 @@
     "children": ["stack-layout#brand"]
   },
   "stack-layout#brand": {
-    "children": [
-      "product-images",
-      "product-brand"
-    ]
+    "children": ["product-images", "product-brand"]
   },
   "product-brand": {
     "props": {
@@ -44,6 +41,13 @@
   },
   "flex-layout.row#qty-sku": {
     "children": ["sku-selector", "product-quantity"]
+  },
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false,
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true
+    }
   },
   "flex-layout.row#shipping-simulator": {
     "children": ["shipping-simulator"]
